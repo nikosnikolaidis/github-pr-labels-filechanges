@@ -1,0 +1,30 @@
+
+`	java:S112P"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112R"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+Œ
+java:S1319¶"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(•İ×ÿÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ª©Á
+f	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì£ïµ
+f	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş‘’†
+l	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„˜şîÿÿÿÿÿ
+f	java:S117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸõË
+2
+java:S1643<"Use a StringBuilder instead.(¶ÛÇÉ
+0
+java:S1220""Move this file to a named package.
+n	java:S116"TRename this field "GitURLAPI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷–¹ùÿÿÿÿ
+m
+java:S3776+"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(á·¿óüÿÿÿÿ
+_
+java:S2147Q"DCombine this catch with the one at line 79, which has the same body.(ğêÌØûÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(à¸”¯ùÿÿÿÿ
+Q	java:S1255"<This block of commented-out lines of code should be removed.(±¯€¤
+Q	java:S1258"<This block of commented-out lines of code should be removed.(á­‰±
+T
+java:S1155D">Use isEmpty() to check whether the collection is empty or not.(®‚ë•
+m
+java:S3776Z"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(İş†µÿÿÿÿÿ
+S	java:S106b"9Replace this use of System.out or System.err by a logger.(Ÿ¥ëòûÿÿÿÿ
+S	java:S106n"9Replace this use of System.out or System.err by a logger.(Ã¢Ûùÿÿÿÿ
+S	java:S106~"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ
+O	java:S106Š"9Replace this use of System.out or System.err by a logger.(ÆŞî

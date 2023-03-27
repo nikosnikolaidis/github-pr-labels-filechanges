@@ -1,0 +1,58 @@
+
+`	java:S1128"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112œ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+{
+java:S1192D"`Define a constant instead of duplicating this literal "-------------------------------" 3 times.(ç‘ë®üÿÿÿÿ
+d
+java:S11924"IDefine a constant instead of duplicating this literal "user.dir" 4 times.(Âñ·¨şÿÿÿÿ
+k	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä““øıÿÿÿÿ
+f	java:S117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ª¯©
+f	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñøûÎ
+k	java:S117d"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äû¹Ûşÿÿÿÿ
+f	java:S117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü›¢
+l	java:S117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„˜şîÿÿÿÿÿ
+f	java:S117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸõË
+2
+java:S1643V"Use a StringBuilder instead.(¶ÛÇÉ
+h
+java:S1104"RMake GitURL a static final constant or non-public and provide accessors if needed.(Şøø¾
+l
+java:S1104"QMake token a static final constant or non-public and provide accessors if needed.(¸ºÅ…øÿÿÿÿ
+r
+java:S1104"WMake givenLabels a static final constant or non-public and provide accessors if needed.(ÎÓü‘üÿÿÿÿ
+B
+java:S1444",Make this "public static GitURL" field final(Şøø¾
+F
+java:S1444"+Make this "public static token" field final(¸ºÅ…øÿÿÿÿ
+L
+java:S1444"1Make this "public static givenLabels" field final(ÎÓü‘üÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+g
+java:S3008"QRename this field "GitURL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şøø¾
+8
+java:S2386"Make this member "protected".(ÎÓü‘üÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 84 to the 15 allowed.(Çµí‘
+P	java:S125"<This block of commented-out lines of code should be removed.(ÈôæU
+M	java:S106-"9Replace this use of System.out or System.err by a logger.(ü¤ı
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(ç‘ë®üÿÿÿÿ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(ç‘ë®üÿÿÿÿ
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(ç‘ë®üÿÿÿÿ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(ÇÊ£¨
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(à¸”¯ùÿÿÿÿ
+T
+java:S1155f">Use isEmpty() to check whether the collection is empty or not.(Ş¡ÚÁ
+O	java:S106Š"9Replace this use of System.out or System.err by a logger.(¦œß®
+T	java:S106‹"9Replace this use of System.out or System.err by a logger.(™éÑ‘ûÿÿÿÿ
+O	java:S106Œ"9Replace this use of System.out or System.err by a logger.(êë õ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(¦œß®
+Z
+java:S1155”">Use isEmpty() to check whether the collection is empty or not.(Õ…ø†ùÿÿÿÿ
+T	java:S106¯"9Replace this use of System.out or System.err by a logger.(Ÿ¥ëòûÿÿÿÿ
+T	java:S106´"9Replace this use of System.out or System.err by a logger.(Ã¢Ûùÿÿÿÿ
+T	java:S106¶"9Replace this use of System.out or System.err by a logger.(ÅŸ™¥úÿÿÿÿ
+T	java:S106Å"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ
+O	java:S106Ê"9Replace this use of System.out or System.err by a logger.(ÆŞî
+T	java:S106Ì"9Replace this use of System.out or System.err by a logger.(ÅŸ™¥úÿÿÿÿ
